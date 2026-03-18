@@ -72,4 +72,5 @@ This project demonstrates how Excel can be used to analyze travel data and creat
 
 LinkedIn: (linkedin.com/in/akash-gupta-94470015b)
 Email: (akashgupta65908@gmail.com)
+
 <img width="967" height="535" alt="dashboard" src="https://github.com/user-attachments/assets/2e315798-58e4-4af5-a51b-2e8a24842c92" />
